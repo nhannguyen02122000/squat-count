@@ -14,3 +14,11 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.main-container {
+  display: flex;
+}
+
+.react-p5 {
+  display: inline;
+}
